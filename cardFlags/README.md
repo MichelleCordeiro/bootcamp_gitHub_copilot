@@ -10,52 +10,35 @@
 
 <br>
 
+
 <!-- Infos session -->
 <h3> 💻 Projeto </h3>
 
 &emsp; &emsp; Este projeto tem como objetivo desenvolver uma aplicação simples capaz de identificar a bandeira de um cartão de crédito (como Visa, MasterCard, etc.) com base no número do cartão. Utilizando o GitHub Copilot como assistente de codificação, explorando como a inteligência artificial pode acelerar o desenvolvimento, sugerir trechos de código e melhorar a produtividade.
 
-<!-- &emsp; &emsp; Aplicação está disponível <a href="https://nlw-notes-eta.vercel.app/" target="_blank">aqui</a> -->
-
 <br>
+
 
 <!-- Tools session -->
 <h3> 🚀 Tecnologias </h3>
 <p align="left">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">JavaScript</code>
   <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"> VS Code</code>
   <code><img height="23" src="https://i.postimg.cc/SQ1QTRYW/copilot-logo.png" alt="Github Copilot">Github Copilot</code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">JavaScript</code>
 </p>
 
-
 <br>
+
 
 <!-- Learnning session -->
 <h3> 👩‍💻 Aprendizado </h3>
-  <ul>
-    <li>Javascript</li>
-    <li>Regex</li>
-    <li>Github copilot</li>
-  </ul>
 
-  </tr>
-</table>
-      <!-- <li>Deploy na Vercel</li> -->
+  - Github copilot
+  - Javascript
+  - Regex
 
 <br>
 
-<br>
-
-<!-- Future implementations session -->
-<!-- <h2> 🔮 Implementações futuras: </h2>
-
-- [ ] listar eventos
-- [ ] gerir o cadastro dos eventos
-- [ ] listar participantes de determinado evento, com e sem check-in
-- [ ] gerir o cadastro dos participantes
-- [ ] fazer o check-in manualmente na aplicação
-
-<br> -->
 
 <!-- Contacts session -->
 <h3> 👩🏼‍💻 Contatos </h3>
@@ -73,6 +56,7 @@
 
 <br>
 
+
 <!-- Licences session -->
 <h3 align="left"> 📝 License </h3>
 
@@ -81,7 +65,7 @@
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=489BDF&labelColor=202024" alt="License"></a>
 </p>
 <br>
-<!--END_SECTION:licenses-->
+
 
 <!--START_SECTION:footer-->
 <div align="center">
@@ -90,4 +74,3 @@
 Made with 💙 by <a href="https://www.linkedin.com/in/michelle-cordeiro/">Michelle Cordeiro</a>
 
 </div>
-<!--END_SECTION:footer-->

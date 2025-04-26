@@ -3,38 +3,55 @@
   <img src="./cardFlags/assets/copilot.png" alt="Logo Bootcamp Github Copilot" width="150">
 </p>
 
+
 <!--About session-->
 <h1 align="center" style="color:#8257e6">Bootcamp Github Copilot</h1>
 <br>
+
 
 <!-- Infos session -->
 <h3> 💻 Projetos </h3>
 
 Projetos desenvolvidos no decorrer do Bootcamp Microsoft 50 Anos - GitHub Copilot oferecido pela <a href="https://digitalinnovation.one/"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="DIO" tittle="Digital Innovation One" width="40"> Digital Innovation One.</a>
 
--  Identificador de bandeira de cartão de crédito
+-  <a href="https://github.com/MichelleCordeiro/bootcamp_gitHub_copilot/tree/main/cardFlags">Identificador de bandeira de cartão de crédito</a>
+-  <a href="https://github.com/MichelleCordeiro/bootcamp_gitHub_copilot/tree/main/depurando">Depurando algoritmos</a>
+    - Limitador de Texto
+    - Identificador de Número primo
+    - Formatador de Nome
 
 <br>
+
 
 <!-- Tools session -->
 <h3> 🚀 Tecnologias </h3>
 <p align="left">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">JavaScript</code>
-  <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"> VS Code</code>
   <code><img height="23" src="https://i.postimg.cc/SQ1QTRYW/copilot-logo.png" alt="Github Copilot">Github Copilot</code>
+  <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"> VS Code</code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> JavaScript</code>
+  <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"> Python</code>
 </p>
 
 <br>
 
+
 <!-- Learnning session -->
 <h3> 👩‍💻 Aprendizado </h3>
 
-  - Javascript
-  - Regex
-  - Github copilot
+  - Configuração do Github Copilot
+  - Licenciamento
+  - Prompt engineering
+  - Copilot chat
+  - Copilot inline
+  - Copilot CLI
+  - Copilot no Github web
+  - Desafios de código
+  - Depuração com o Copilot
+  - Lógica de programação
   </ul>
 
 <br>
+
 
 <!-- Contacts session -->
 <h3> 👩🏼‍💻 Contatos </h3>
@@ -52,6 +69,7 @@ Projetos desenvolvidos no decorrer do Bootcamp Microsoft 50 Anos - GitHub Copilo
 
 <br>
 
+
 <!-- Licences session -->
 <h3 align="left"> 📝 License </h3>
 
@@ -59,8 +77,9 @@ Projetos desenvolvidos no decorrer do Bootcamp Microsoft 50 Anos - GitHub Copilo
   <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=489BDF&labelColor=202024" alt="DIO Project" />
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=489BDF&labelColor=202024" alt="License"></a>
 </p>
+
 <br>
-<!--END_SECTION:licenses-->
+
 
 <!--START_SECTION:footer-->
 <div align="center">
@@ -69,4 +88,3 @@ Projetos desenvolvidos no decorrer do Bootcamp Microsoft 50 Anos - GitHub Copilo
 Made with 💙 by <a href="https://www.linkedin.com/in/michelle-cordeiro/">Michelle Cordeiro</a>
 
 </div>
-<!--END_SECTION:footer-->
